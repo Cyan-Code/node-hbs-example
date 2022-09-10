@@ -1,6 +1,7 @@
 # node-hbs-example
 Aplicacion semi-dinamica, con Handelbars
 
+```js
 class Perceptron {
     generateValues(alpha, w1, w2, threshold) {
         return {
@@ -66,4 +67,4 @@ class Perceptron {
 }
 
 Perceptron.prototype.iterations()
-
+```
